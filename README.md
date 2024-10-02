@@ -1,1 +1,7 @@
-"# MLOps" 
+# MLOPS
+
+This is notes about MLOPS.
+
+## Course Outline
+- [[What is MLOPS]]
+- 
