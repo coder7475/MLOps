@@ -9,4 +9,5 @@ This is notes about MLOPS.
 ### Resources
 - [[Blogs]]
 - [[Books]]
+- [[Tools]]
 - 
