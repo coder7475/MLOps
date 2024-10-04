@@ -11,8 +11,12 @@
             "id": "dcc780ec92e5084b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "What is MLOPS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "What is MLOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "What is MLOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "What is MLOPS.md"
+              }
             }
           },
           {
@@ -151,8 +159,8 @@
   "active": "dcc780ec92e5084b",
   "lastOpenFiles": [
     "Blogs.md",
-    "What is MLOPS.md",
     "Books.md",
+    "What is MLOPS.md",
     "README.md",
     "2024-10-02.md",
     "Welcome.md"
