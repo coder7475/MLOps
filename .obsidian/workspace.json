@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Books.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +158,14 @@
   },
   "active": "dcc780ec92e5084b",
   "lastOpenFiles": [
+    "2023-10-EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+    "EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+    "Books.md",
     "What is MLOPS.md",
     "Tools.md",
     "README.md",
+    "2024-10-04.md",
     "Blogs.md",
-    "Books.md",
     "2024-10-02.md",
     "Welcome.md"
   ]
