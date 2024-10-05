@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcc780ec92e5084b",
+  "active": "d9da8b2e14aa8595",
   "lastOpenFiles": [
+    "Resources/State of AI Report 2023 - ONLINE.pdf",
+    "Resources/2023_Kaggle_AI_Report.pdf",
+    "Resources/system-design-mlops.excalidraw",
+    "Resources",
+    "New folder",
     "Blogs.md",
     "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
     "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
@@ -167,10 +173,6 @@
     "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
     "Books",
-    "New folder",
-    "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
-    "Slides",
-    "2023-10-EB-Big-Book-of-MLOps-2nd-Edition.pdf",
     "Tools.md",
     "README.md",
     "2024-10-04.md",
