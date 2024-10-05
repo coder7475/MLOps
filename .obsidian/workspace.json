@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
+                "file": "Books Download Ref.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Books Download Ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Books Download Ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md"
+                "file": "Books Download Ref.md"
               }
             }
           },
@@ -156,8 +156,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "046aa5265b6201cf",
+  "active": "dcc780ec92e5084b",
   "lastOpenFiles": [
+    "Blogs.md",
+    "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
+    "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
+    "What is MLOPS.md",
+    "Books Download Ref.md",
     "Slides/3. System Design and MLOps_MLOps-with-Cloud.pdf",
     "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
@@ -166,13 +171,9 @@
     "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
     "Slides",
     "2023-10-EB-Big-Book-of-MLOps-2nd-Edition.pdf",
-    "EB-Big-Book-of-MLOps-2nd-Edition.pdf",
-    "Books.md",
-    "What is MLOPS.md",
     "Tools.md",
     "README.md",
     "2024-10-04.md",
-    "Blogs.md",
     "2024-10-02.md",
     "Welcome.md"
   ]

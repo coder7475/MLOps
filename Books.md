@@ -1,1 +1,0 @@
-1. https://www.databricks.com/resources/ebook/the-big-book-of-mlops
