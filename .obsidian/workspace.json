@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7641ae80cf0403",
+        "id": "ccb7c97be8314a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "dcc780ec92e5084b",
+            "id": "407951256e3ac41f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Books Download Ref.md",
-                "mode": "preview",
-                "source": false
+                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books Download Ref.md",
+                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books Download Ref.md",
+                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books Download Ref.md"
+                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf"
               }
             }
           },
@@ -142,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,22 +154,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9da8b2e14aa8595",
+  "active": "407951256e3ac41f",
   "lastOpenFiles": [
-    "Resources/State of AI Report 2023 - ONLINE.pdf",
     "Resources/2023_Kaggle_AI_Report.pdf",
-    "Resources/system-design-mlops.excalidraw",
-    "Resources",
-    "New folder",
     "Blogs.md",
     "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
+    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+    "Resources/system-design-mlops.excalidraw",
+    "Books Download Ref.md",
+    "Resources/State of AI Report 2023 - ONLINE.pdf",
+    "Resources",
+    "New folder",
     "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
     "What is MLOPS.md",
-    "Books Download Ref.md",
     "Slides/3. System Design and MLOps_MLOps-with-Cloud.pdf",
     "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
-    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
-    "Books",
     "Tools.md",
     "README.md",
     "2024-10-04.md",
