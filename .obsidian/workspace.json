@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf"
+                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf"
+                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf"
               }
             }
           },
@@ -156,10 +156,10 @@
   },
   "active": "407951256e3ac41f",
   "lastOpenFiles": [
+    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
     "Resources/2023_Kaggle_AI_Report.pdf",
     "Blogs.md",
     "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
-    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
     "Resources/system-design-mlops.excalidraw",
     "Books Download Ref.md",
     "Resources/State of AI Report 2023 - ONLINE.pdf",
