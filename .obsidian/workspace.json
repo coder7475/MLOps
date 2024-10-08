@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf"
+                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf",
+                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf",
+                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quizes/Quiz_for_Class_2-Module_2.pdf"
+                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf"
               }
             }
           },
@@ -156,19 +156,20 @@
   },
   "active": "407951256e3ac41f",
   "lastOpenFiles": [
-    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
-    "Resources/2023_Kaggle_AI_Report.pdf",
-    "Blogs.md",
-    "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
-    "Resources/system-design-mlops.excalidraw",
-    "Books Download Ref.md",
-    "Resources/State of AI Report 2023 - ONLINE.pdf",
-    "Resources",
+    "Tasks for Module 1/Case Study.pdf",
+    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+    "Tasks for Module 1",
+    "excalidraws/drift-concepts-ml.excalidraw",
+    "excalidraws/model-registry.excalidraw",
+    "excalidraws/model deployment strategies.excalidraw",
+    "excalidraws/system-design-mlops.excalidraw",
+    "excalidraws",
     "New folder",
-    "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
+    "Quizes/Quiz_for_Class_2-Module_1.pdf",
+    "Quizes/Quiz_for_Class_4-Module_1.pdf",
+    "Blogs.md",
+    "Books Download Ref.md",
     "What is MLOPS.md",
-    "Slides/3. System Design and MLOps_MLOps-with-Cloud.pdf",
-    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Tools.md",
     "README.md",
     "2024-10-04.md",
