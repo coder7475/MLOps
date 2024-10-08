@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf"
+                "file": "Resources/2023_Kaggle_AI_Report.pdf"
               }
             }
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "be74873f8126a2c2",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf",
+                "file": "Resources/2023_Kaggle_AI_Report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf",
+                "file": "Resources/2023_Kaggle_AI_Report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Class_Materials_for_Class_3-Module_1.pdf"
+                "file": "Resources/2023_Kaggle_AI_Report.pdf"
               }
             }
           },
@@ -154,24 +154,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "407951256e3ac41f",
+  "active": "046aa5265b6201cf",
   "lastOpenFiles": [
     "Tasks for Module 1/Case Study.pdf",
     "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
-    "Tasks for Module 1",
+    "Blogs.md",
+    "Tools.md",
+    "README.md",
+    "What is MLOPS.md",
+    "Books Download Ref.md",
     "excalidraws/drift-concepts-ml.excalidraw",
+    "Resources/2023_Kaggle_AI_Report.pdf",
+    "Resources/Class_Materials_for_Class_3-Module_1.pdf",
+    "Tasks for Module 1",
     "excalidraws/model-registry.excalidraw",
     "excalidraws/model deployment strategies.excalidraw",
     "excalidraws/system-design-mlops.excalidraw",
     "excalidraws",
-    "New folder",
-    "Quizes/Quiz_for_Class_2-Module_1.pdf",
-    "Quizes/Quiz_for_Class_4-Module_1.pdf",
-    "Blogs.md",
-    "Books Download Ref.md",
-    "What is MLOPS.md",
-    "Tools.md",
-    "README.md",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"
