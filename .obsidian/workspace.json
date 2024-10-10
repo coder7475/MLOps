@@ -18,6 +18,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71c1de52dffb4e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blogs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41424701e403aaab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/2. What is MLOps_MLOps-with-Cloud.pdf"
+              }
+            }
           }
         ]
       }
@@ -158,11 +180,11 @@
   },
   "active": "9b5e16a8398e6c86",
   "lastOpenFiles": [
-    "Tools.md",
-    "What is MLOPS.md",
-    "README.md",
-    "Blogs.md",
     "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
+    "What is MLOPS.md",
+    "Blogs.md",
+    "Tools.md",
+    "README.md",
     "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
     "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
     "Tasks for Module 1/Case Study.pdf",

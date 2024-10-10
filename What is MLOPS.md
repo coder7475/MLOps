@@ -1,4 +1,19 @@
-The combination of **people**, **process** & **technology** to productionize ML solutions efficiently.
+
+**MLOPS** is a set of best practices for putting "Machine Learning" in production.
+
+> It is the combination of **people**, **process** & **technology** to productionize ML solutions efficiently.
+
+> **MLOPS = DataOps + DevOps + ModelOps**
+
+Ultimate goals of MLOPS is:
+1. Automating everything in ML Lifecycle
+2. Establish collaboration
+
+Steps in ML pipeline:
+1. Load data from source/warehouse
+2. prepare data
+3. training model
+4. deploy model
 ### Definitions
 ##### By Google Cloud:
 
