@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "407951256e3ac41f",
+            "id": "9b5e16a8398e6c86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/2023_Kaggle_AI_Report.pdf"
+                "file": "What is MLOPS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/2023_Kaggle_AI_Report.pdf",
+                "file": "What is MLOPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/2023_Kaggle_AI_Report.pdf",
+                "file": "What is MLOPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/2023_Kaggle_AI_Report.pdf"
+                "file": "What is MLOPS.md"
               }
             }
           },
@@ -154,23 +156,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "046aa5265b6201cf",
+  "active": "9b5e16a8398e6c86",
   "lastOpenFiles": [
-    "Tasks for Module 1/Case Study.pdf",
-    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
-    "Blogs.md",
     "Tools.md",
-    "README.md",
     "What is MLOPS.md",
+    "README.md",
+    "Blogs.md",
+    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
+    "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
+    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+    "Tasks for Module 1/Case Study.pdf",
+    "Resources/2023_Kaggle_AI_Report.pdf",
     "Books Download Ref.md",
     "excalidraws/drift-concepts-ml.excalidraw",
-    "Resources/2023_Kaggle_AI_Report.pdf",
     "Resources/Class_Materials_for_Class_3-Module_1.pdf",
     "Tasks for Module 1",
     "excalidraws/model-registry.excalidraw",
     "excalidraws/model deployment strategies.excalidraw",
-    "excalidraws/system-design-mlops.excalidraw",
-    "excalidraws",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"

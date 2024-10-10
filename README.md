@@ -2,7 +2,7 @@
 
 This is notes about MLOPS.
 
-## Course Outline
+## My Notes
 - [[What is MLOPS]]
 - 
 ****
