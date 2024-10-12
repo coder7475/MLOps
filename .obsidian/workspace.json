@@ -8,40 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b5e16a8398e6c86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is MLOPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71c1de52dffb4e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blogs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "41424701e403aaab",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Slides/2. What is MLOps_MLOps-with-Cloud.pdf"
+                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf"
+              }
+            }
+          },
+          {
+            "id": "ba7617e19875c24a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tasks for Module 1/Case Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "78abb7bebe976549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is MLOPS.md",
+                "file": "Task 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What is MLOPS.md",
+                "file": "Task 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is MLOPS.md"
+                "file": "Task 1.md"
               }
             }
           },
@@ -178,16 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9b5e16a8398e6c86",
+  "active": "78abb7bebe976549",
   "lastOpenFiles": [
-    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
-    "What is MLOPS.md",
+    "Tasks for Module 1/Case Study.pdf",
+    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+    "Task 1.md",
     "Blogs.md",
+    "What is MLOPS.md",
+    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Tools.md",
     "README.md",
     "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
-    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
-    "Tasks for Module 1/Case Study.pdf",
     "Resources/2023_Kaggle_AI_Report.pdf",
     "Books Download Ref.md",
     "excalidraws/drift-concepts-ml.excalidraw",
