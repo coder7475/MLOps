@@ -7,4 +7,5 @@
 8. [AI in Ecommerce](https://medium.com/coax-software-blog/best-ai-solutions-for-ecommerce-in-2025-bb06d0c40240)
 9. [Answer Bot](https://www.zendesk.com/blog/introducing-answer-bot/)
 10. [Pipeline using kitOps & dagger.io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m?ref=dailydev)
-11. 
+11. [Product Recommendation Engine](https://www.comarch.com/trade-and-services/loyalty-marketing/blog/ai-product-recommendation-engines/)
+12. 

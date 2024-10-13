@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Blogs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -180,9 +180,16 @@
   },
   "active": "41424701e403aaab",
   "lastOpenFiles": [
+    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
     "Tasks for Module 1/Case Study.pdf",
-    "Blogs.md",
     "Task 1.md",
+    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
+    "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
+    "What is MLOPS.md",
+    "Tools.md",
+    "README.md",
+    "Books Download Ref.md",
+    "Blogs.md",
     "Resources/State of AI Report 2023 - ONLINE.pdf",
     "Resources/Class_Materials_for_Class_4-Module_1.pdf",
     "Resources/2023_Kaggle_AI_Report.pdf",
@@ -190,12 +197,6 @@
     "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
     "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
     "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
-    "excalidraws/system-design-mlops 1.excalidraw",
-    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
-    "What is MLOPS.md",
-    "Tools.md",
-    "README.md",
-    "Books Download Ref.md",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"
