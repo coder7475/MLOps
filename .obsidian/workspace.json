@@ -11,9 +11,11 @@
             "id": "41424701e403aaab",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf"
+                "file": "Blogs.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -39,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task 1.md",
+                "file": "Blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task 1.md",
+                "file": "Blogs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task 1.md"
+                "file": "Blogs.md"
               }
             }
           },
@@ -177,24 +178,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78abb7bebe976549",
+  "active": "41424701e403aaab",
   "lastOpenFiles": [
     "Tasks for Module 1/Case Study.pdf",
-    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
-    "Task 1.md",
     "Blogs.md",
+    "Task 1.md",
+    "Resources/State of AI Report 2023 - ONLINE.pdf",
+    "Resources/Class_Materials_for_Class_4-Module_1.pdf",
+    "Resources/2023_Kaggle_AI_Report.pdf",
+    "Resources/Class_Materials_for_Class_3-Module_1.pdf",
+    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+    "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
+    "Books/Designing data-intensive applications the big ideas behind reliable, scalable, and maintainable .pdf",
+    "excalidraws/system-design-mlops 1.excalidraw",
+    "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
     "What is MLOPS.md",
-    "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Tools.md",
     "README.md",
-    "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
-    "Resources/2023_Kaggle_AI_Report.pdf",
     "Books Download Ref.md",
-    "excalidraws/drift-concepts-ml.excalidraw",
-    "Resources/Class_Materials_for_Class_3-Module_1.pdf",
-    "Tasks for Module 1",
-    "excalidraws/model-registry.excalidraw",
-    "excalidraws/model deployment strategies.excalidraw",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"

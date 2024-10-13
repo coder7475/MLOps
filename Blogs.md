@@ -4,3 +4,7 @@
 5. [MLOps Maturity Levels - AWS](https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enterprises-with-amazon-sagemaker/)
 6. [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 7. [Machine Learning operations maturity model](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model)
+8. [AI in Ecommerce](https://medium.com/coax-software-blog/best-ai-solutions-for-ecommerce-in-2025-bb06d0c40240)
+9. [Answer Bot](https://www.zendesk.com/blog/introducing-answer-bot/)
+10. [Pipeline using kitOps & dagger.io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m?ref=dailydev)
+11. 
