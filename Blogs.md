@@ -8,4 +8,5 @@
 9. [Answer Bot](https://www.zendesk.com/blog/introducing-answer-bot/)
 10. [Pipeline using kitOps & dagger.io](https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m?ref=dailydev)
 11. [Product Recommendation Engine](https://www.comarch.com/trade-and-services/loyalty-marketing/blog/ai-product-recommendation-engines/)
-12. 
+12. [Dynamic Pricing Model](https://www.datafeedwatch.com/blog/ai-dynamic-pricing)
+13. 
