@@ -11,20 +11,38 @@
             "id": "ba7617e19875c24a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf"
-              }
+                "file": "NextGen Retail - Case Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NextGen Retail - Case Study"
             }
           },
           {
-            "id": "78abb7bebe976549",
+            "id": "a073a1e79538119a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Tasks for Module 1/Case Study.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Case Study"
+            }
+          },
+          {
+            "id": "ef5797ab595f5464",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment AI ML Model Blueprint"
             }
           }
         ]
@@ -47,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,7 +82,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,14 +92,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200
   },
   "right": {
     "id": "be74873f8126a2c2",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+                "file": "Tasks for Module 1/Case Study.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +125,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Case Study"
             }
           },
           {
@@ -110,10 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+                "file": "Tasks for Module 1/Case Study.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Case Study"
             }
           },
           {
@@ -124,7 +152,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf"
-              }
+                "file": "Tasks for Module 1/Case Study.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Case Study"
             }
           },
           {
@@ -142,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,9 +201,11 @@
   "active": "ba7617e19875c24a",
   "lastOpenFiles": [
     "Tasks for Module 1/Case Study.pdf",
-    "Blogs.md",
-    "Task 1.md",
+    "NextGen Retail - Case Study.md",
     "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
+    "excalidraws/system-design-mlops 1.excalidraw",
+    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
+    "Blogs.md",
     "Slides/2. What is MLOps_MLOps-with-Cloud.pdf",
     "Slides/1. Orientation-Class_MLOps-with-Cloud.pdf",
     "What is MLOPS.md",
@@ -180,8 +216,6 @@
     "Resources/Class_Materials_for_Class_4-Module_1.pdf",
     "Resources/2023_Kaggle_AI_Report.pdf",
     "Resources/Class_Materials_for_Class_3-Module_1.pdf",
-    "Books/EB-Big-Book-of-MLOps-2nd-Edition.pdf",
-    "Books/Designing Machine Learning Systems An Iterative Process for Production-Ready Applications (Chip .pdf",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"
