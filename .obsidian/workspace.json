@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3018b1725c7ac3e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-20 13.08.19.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-20 13.08.19.excalidraw"
+            }
+          },
+          {
             "id": "a073a1e79538119a",
             "type": "leaf",
             "state": {
@@ -198,6 +210,9 @@
   },
   "active": "ba7617e19875c24a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-20 13.08.19.excalidraw.md",
+    "excalidraws/system-design-mlops.excalidraw",
+    "Excalidraw",
     "Tasks for Module 1/Assignment AI ML Model Blueprint.pdf",
     "NextGen Retail - Case Study.md",
     "Tasks for Module 1/Case Study.pdf",
@@ -212,8 +227,6 @@
     "Books Download Ref.md",
     "Resources/State of AI Report 2023 - ONLINE.pdf",
     "Resources/Class_Materials_for_Class_4-Module_1.pdf",
-    "Resources/2023_Kaggle_AI_Report.pdf",
-    "Resources/Class_Materials_for_Class_3-Module_1.pdf",
     "2024-10-04.md",
     "2024-10-02.md",
     "Welcome.md"
